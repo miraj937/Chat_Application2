@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">chat_Application</string>
+    <string name="send_message">send Message</string>
+    <string name="demesso">Demesso</string>
+    <string name="account_name">account_name</string>
+    <string name="_1">1</string>
+    <string name="this_is_last_message">this is last message...</string>
+</resources>
